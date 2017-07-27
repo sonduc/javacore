@@ -1,0 +1,6 @@
+nv01	nguyen van manh	01629653569	nguyenmanh0397@gmail.com	123456	nghe an	admin
+nv02	tran manh duc	0123456789	tranminhduc@gmail.com	123abc	nghe an	personnel
+nv03	ngo van nghia	0234567890	ngovannghia@gmail.com	123abc	bac giang	personnel
+nv04	nguyen van duy	9999999999	nguyenvanduy@gmail.com	123abc	nghe an	personnel
+nv05	nguyen van a	4444444444	nguyenvana@gmail.com	123abc	ha noi	personnel
+nv06	nguyen manh	2837462736	nguyenmanh@gmail.com	123abc	nghe an	admin

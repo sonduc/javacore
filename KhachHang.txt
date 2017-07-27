@@ -1,0 +1,5 @@
+kh01	nguyen van a	0203948285	nguyenvana@gmail.com	ha noi
+kh02	nguyen van b	3938275947	nguyenvanb@gmail.com	nghe an
+kh03	nguyen van c	0384729483	nguyenvanc@gmail.com	tp.hcm
+kh04	nguyen van d	0394857384	nguyenvand@gmail.com	ha giang
+kh05	nguyen van e	8383838383	nguyenvane@gmail.com	quang nam

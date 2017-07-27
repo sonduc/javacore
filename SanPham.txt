@@ -1,0 +1,5 @@
+sp01	but	291	3000
+sp02	thuoc	291	5000
+sp03	snacks	200	6000
+sp04	vo hong ha	150	9000
+sp05	keo mut chupa chups	122	1000
